@@ -1,0 +1,7 @@
+{
+  "name": "MemoryClass",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
